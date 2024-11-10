@@ -12,8 +12,7 @@ Ejercicio de análisis sobre un data base de super mercados donde realizo un est
         
 Este proyecto realiza un análisis exploratorio y predictivo de las ventas de una una serie de super mercados. El objetivo es identificar tipos de producto, situación en los super mercados, patrones y realizar predicciones basadas en datos históricos usando técnicas de modelado de datos.
 
-- **Estructura del Proyecto**
-
+ 
  **🗂️ Estructura del Proyecto**
 
         ├── Datos/                        # Datos crudos y procesados
@@ -24,8 +23,8 @@ Este proyecto realiza un análisis exploratorio y predictivo de las ventas de un
 
 
 
-- **Resultados y Conclusiones**
-- *📊 Resultados y Conclusiones*
+
+**📊 Resultados y Conclusiones**
 
 - Identificamos un aumento estacional en las ventas durante los meses de noviembre y diciembre.
 - El modelo predictivo alcanzó un 85% de precisión en la estimación de ventas futuras.
