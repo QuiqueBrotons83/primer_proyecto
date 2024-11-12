@@ -3,8 +3,6 @@
 Ejercicio de análisis sobre un data base de super mercados donde realizo un estudio sobre los tipos de articulos y sus ventas.
 
 
-   
-
         
 **📊 Análisis de Ventas: Exploración y Modelado de Datos**
 
@@ -15,9 +13,9 @@ Este proyecto realiza un análisis exploratorio y predictivo de las ventas de un
  
  **🗂️ Estructura del Proyecto**
 
-        ├── Datos/                        # Datos crudos y procesados
-        ├── Eda_Transformación_Datos/     # Realización de trabajos de limpieza EDA y transformación.
-        ├── DASHBORARD/                   # Presentación de resultados
+        ├── 01-Datos/                     # Datos crudos y procesados
+        ├── 02-Eda/                       # Realización de trabajos de limpieza EDA y transformación.
+        ├── 03-Dashboard/                 # Presentación de resultados
         ├── README.md                     # Descripción del proyecto
 
 
@@ -26,9 +24,7 @@ Este proyecto realiza un análisis exploratorio y predictivo de las ventas de un
 
 **📊 Resultados y Conclusiones**
 
-- Identificamos un aumento estacional en las ventas durante los meses de noviembre y diciembre.
-- El modelo predictivo alcanzó un 85% de precisión en la estimación de ventas futuras.
-- El análisis sugiere que los descuentos y promociones tienen un impacto directo en el comportamiento de compra de los clientes.
+La conclusiones de esta base de datos las podemos ver en la carpeta Dashboard donde podremos analizar y sacar las mejores conclusiones de ella.
 
 **Autores y Agradecimientos**
 
