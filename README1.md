@@ -1,6 +1,6 @@
 # **Análisis Ventas Super Mercados**
 
-**Ejercicio de análisis sobre un data base de super mercados donde realizo un estudio sobre los tipos de articulos y sus ventas.**
+Ejercicio de análisis sobre un data base de super mercados donde realizo un estudio sobre los tipos de articulos y sus ventas.
 
 
         
