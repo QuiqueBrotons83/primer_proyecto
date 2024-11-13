@@ -1,6 +1,6 @@
-# **Análisis Ventas Super Mercados**
+# **Análisis Ventas Supermercados**
 
-**Ejercicio de análisis sobre un data base de super mercados donde realizo un estudio sobre los tipos de articulos y sus ventas.**
+**Ejercicio de análisis sobre un data base de supermercados donde realizo un estudio sobre los tipos de articulos y sus ventas.**
 
 
         
@@ -8,7 +8,7 @@
 
 **📖 Descripción**
         
-Este proyecto realiza un análisis exploratorio y predictivo de las ventas de una una serie de super mercados. El objetivo es identificar tipos de producto, situación en los super mercados, patrones y realizar predicciones basadas en datos históricos usando técnicas de modelado de datos.
+Este proyecto realiza un análisis exploratorio y predictivo de las ventas de una una serie de supermercados. El objetivo es identificar tipos de producto, situación en los supermercados, patrones y realizar predicciones basadas en datos históricos usando técnicas de modelado de datos.
  
 ###  **🗂️ Estructura del Proyecto**
 
